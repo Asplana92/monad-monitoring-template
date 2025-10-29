@@ -36,3 +36,17 @@ Template verified on Ubuntu 24.04 (8 GB RAM) and Docker 25.x.
 🛠 Maintained by Tolik 🌿 Testnet Explorer
 
 #Monad #DevOps #Web3Infra #Monitoring #Grafana #Prometheus
+
+---
+
+## 🧠 Known Issues & Improvements
+
+| # | Title | Labels | Status |
+|:-:|:------|:--------|:--------|
+| [#1](https://github.com/Asplana92/monad-monitoring-template/issues/1) | Categoryxyz Docker images issue | 🐞 bug · 📘 documentation | Open |
+| [#2](https://github.com/Asplana92/monad-monitoring-template/issues/2) | Prometheus config mount typo | 📘 documentation | Open |
+| [#3](https://github.com/Asplana92/monad-monitoring-template/issues/3) | Grafana public mode best practices | 🧩 enhancement | Open |
+
+These issues document observations and improvements discovered during the Monad monitoring setup process.  
+They help track technical learnings and configuration best practices for future testnet and mainnet deployments.
+
